@@ -22,15 +22,15 @@ Ceci est causé par des bugs dans Android, ou dans le logiciel fourni par le con
     <string name="setting_import">Importer paramètres</string>
     <string name="setting_vpn">Ouvrir les paramètres VPN</string>
 
-    <string name="summary_system">Definisé les regeles pour les applications du système (Pour experts)</string>
+    <string name="summary_system">Definisé les règles pour les applications du système (Pour experts)</string>
 
     <string name="msg_sure">Etes-vous sûr ?</string>
     <string name="msg_started">Enforcing rules</string>
     <string name="msg_disabled">NetGuard est désactivé, utilisez le bouton ci-dessus pour activer NetGuard</string>
     <string name="msg_revoked">NetGuard a été désactivé</string>
     <string name="msg_completed">Action completé</string>
-    <string name="msg_vpn">NetGuard uses a local VPN as a sinkhole to block internet traffic.
-For this reason, please allow a VPN connection in the next dialog.
+    <string name="msg_vpn">NetGuard utilise un VPN local comme intermédiare pour bloquer le trafic internet.
+Pour cette raison, veuillez acceptez une connection VPN.
 Netguard n\'a pas access a internet,vous savez que votre trafic Internet n\'est pas envoyée partout.</string>
 
     <string name="msg_try">Essayer NetGuard</string>
